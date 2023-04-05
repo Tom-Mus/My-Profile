@@ -4,7 +4,8 @@ Hi!
  
 I’m a novice software tester with experience in manual functional testing. I have knowledge of various test methods, test design techniques and types at the ISTQB foundation level. I’m  a highly motivated person to take my first steps on the path of a software tester.
 In daily basis I focus on learning and expanding my knowledge in the field of software testing as well as on personal development, my skills and interests. 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/tomasz-musiał107)
+
+* [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/tomasz-musiał107)
 
 # Technical skills
 
