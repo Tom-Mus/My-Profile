@@ -54,4 +54,5 @@ In daily basis I focus on learning and expanding my knowledge in the field of so
 * Automatyzacja Cypress w pigułce - [cantest.it](https://www.cantest.it)
 
 # SQL queries 
-* SQL Exercies 
+* [SQL Exercise 1](https://drive.google.com/file/d/1NIUIskJJAI7sf-gdKwGSmDTtrHgLgN6X/view?usp=share_link)
+* [SQL Exercise 2](https://drive.google.com/file/d/13D7LT9xtAHwaApRvEu0t3BSr_0W8wJYt/view?usp=share_link)
