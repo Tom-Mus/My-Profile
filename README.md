@@ -1,5 +1,3 @@
-# PORTFOLIO
-
 # About me
 
 Hi! 
