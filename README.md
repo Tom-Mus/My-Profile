@@ -41,6 +41,7 @@ In daily basis I focus on learning and expanding my knowledge in the field of so
 * [testuj.pl](https://testuj.pl/blog/)
 * [Testowa środa - akademiaqa.pl](https://akademiaqa.pl/testowa-sroda/)
 * [Awesome Testing](https://www.awesome-testing.com/)
+* [Kurs Javascript dla superbohaterów](https://kursjs.pl/) 
 
 # Books
 * Zawód tester - Radosław Smilgin wyd. PWN
@@ -54,6 +55,7 @@ In daily basis I focus on learning and expanding my knowledge in the field of so
 * Maraton GoIT Szkolenie z kodowania - HTML/CSS [GoIT Maraton](https://m.goit.global/pl/?utm_source=google&utm_medium=cpc&utm_campaign=19908700535|146264932926|652825193268||go-it&gclid=Cj0KCQjwuLShBhC_ARIsAFod4fLx173xU8r4FagZDcZ61pmY8kScCQLrjZS9zTq-4c4JojNhvkQvhrsaAreEEALw_wcB)
 * Maraton Quality Assurance GoIT - [GoIT QA Maraton](https://qa.m.goit.global/pl/)
 * Automatyzacja Cypress w pigułce - [cantest.it](https://www.cantest.it)
+
 
 # SQL queries 
 * [SQL Exercise 1](https://drive.google.com/file/d/1NIUIskJJAI7sf-gdKwGSmDTtrHgLgN6X/view?usp=share_link)
