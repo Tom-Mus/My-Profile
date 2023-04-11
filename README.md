@@ -40,6 +40,7 @@ In daily basis I focus on learning and expanding my knowledge in the field of so
 * [Podcast testowanie - Norbert Jankowski](https://podcasttestowanie.pl/)
 * [testuj.pl](https://testuj.pl/blog/)
 * [Testowa środa - akademiaqa.pl](https://akademiaqa.pl/testowa-sroda/)
+* [Awesome Testing](https://www.awesome-testing.com/)
 
 # Books
 * Zawód tester - Radosław Smilgin wyd. PWN
